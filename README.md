@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mike, owner of Anytime T3ch
+- 👋 Hi, I’m Mike, owner of T3ch Solutions
 - 🤔 I'm here to learn anything I can about web development, blockchain, Cryptography, and marketing.
 
 - 👀 I’m interested in building my webpage and working with others to build webpages.
